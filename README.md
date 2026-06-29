@@ -112,14 +112,14 @@ npx prisma db seed
 
 | Metric | Score |
 |--------|-------|
-| Performance | 89 |
-| Accessibility | 100 |
+| Performance | 98 |
+| Accessibility | 92 |
 | Best Practices | 100 |
 | SEO | 100 |
 | FCP | 0.9s |
 | LCP | 1.3s |
 | CLS | 0 |
-| TBT | 460ms |
+| TBT | 140ms |
 
 Tested on localhost production build (`npm run build && npm start`).
 
